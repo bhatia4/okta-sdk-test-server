@@ -1,4 +1,4 @@
-# okta-sdk-test-server
+# okta-sdk-test-server, to test a mock Okta API server
 Okta SDK Test Server
 
 Requirements
